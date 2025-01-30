@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int a = 10;
-    printf("Initial value of a : %d\n",a); // simple assignment
+    int a = 10; // simple assignment
+    printf("Initial value of a : %d\n",a); 
+   
 
     a += 5;  // Equivalent to a = a + 5
     printf("After a += 5, a = %d\n", a);
