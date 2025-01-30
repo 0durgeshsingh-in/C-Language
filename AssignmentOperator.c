@@ -13,7 +13,7 @@ int main(){
     a *= 2;   // Equivalent to a = a * 2
     printf("After a *= 2, a = %d\n", a);
 
-    a /= 4;  // Equivalent to a = a / 4
+    a /= 4;   // Equivalent to a = a / 4
     printf("After a /= 4, a = %d\n", a);
 
     a %= 3;  // Equivalent to a = a % 3
