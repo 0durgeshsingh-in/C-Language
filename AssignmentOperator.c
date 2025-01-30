@@ -16,7 +16,7 @@ int main(){
     a /= 4;   // Equivalent to a = a / 4
     printf("After a /= 4, a = %d\n", a);
 
-    a %= 3;  // Equivalent to a = a % 3
+    a %= 3;   // Equivalent to a = a % 3
     printf("After a %= 3, a = %d\n", a);
 
 
