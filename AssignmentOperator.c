@@ -7,7 +7,7 @@ int main(){
     a += 5;   // Equivalent to a = a + 5
     printf("After a += 5, a = %d\n", a);
 
-    a -= 3;  // Equivalent to a = a - 3
+    a -= 3;   // Equivalent to a = a - 3
     printf("After a -= 3, a = %d\n", a);
 
     a *= 2;  // Equivalent to a = a * 2
