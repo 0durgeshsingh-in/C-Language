@@ -56,7 +56,7 @@ int main() {
 
 
     // Output Result
-            //     Addition: 10 + 3 = 13
+            // Addition: 10 + 3 = 13
             // Subtraction: 10 - 3 = 7
             // Multiplication: 10 * 3 = 30
             // Division: 10 / 3 = 3 (integer division)
